@@ -1,43 +1,38 @@
-# 🏫 Sistem Informasi Sekolah (PHP & MySQL)
+# 🏫 Sistem Informasi Sekolah Sederhana
 
-Sistem Informasi Sekolah berbasis web yang dikembangkan menggunakan PHP native dan MySQL. Aplikasi ini digunakan untuk membantu pengelolaan data sekolah seperti data siswa, guru, absensi, dan pembayaran secara terintegrasi.
+Aplikasi web sederhana untuk mengelola data sekolah seperti siswa, guru, absensi, dan pembayaran SPP. Dibuat menggunakan PHP dan MySQL sebagai bagian dari pembelajaran pengembangan web.
 
 ---
 
 ## 👩‍💻 Developer
-**Eka Retno Rudiati Putri**
+Eka Retno
 
 ---
 
-## 🚀 Fitur Utama
-- 🔐 Sistem Login & Multi-role (Admin, Guru, Tata Usaha, Orang Tua)
-- 👨‍🏫 Manajemen Data Guru
-- 🎓 Manajemen Data Siswa
-- 🏫 Manajemen Kelas & Mata Pelajaran
-- 📊 Sistem Absensi
-- 💰 Pembayaran SPP
-- 📁 CRUD Data (Create, Read, Update, Delete)
+## 🚀 Fitur
+- Login sederhana
+- CRUD data siswa dan guru
+- Absensi siswa
+- Pembayaran SPP
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-- PHP Native
+## 🛠️ Teknologi
+- PHP
 - MySQL
 - HTML, CSS, JavaScript
-- Bootstrap
 
 ---
 
-## 🧠 Konsep yang Diterapkan
-- CRUD System
-- Relasi Database
-- Multi-user / Role-based Access
-- UML (Use Case, Activity, Sequence, Class Diagram)
+## ⚙️ Cara Menjalankan
+1. Download / clone project
+2. Pindahkan ke folder `htdocs` (XAMPP)
+3. Jalankan Apache & MySQL
+4. Import database ke phpMyAdmin
+5. Akses di browser:
+   http://localhost/sekolah
 
 ---
 
-## ⚙️ Cara Menjalankan Project
-
-1. Download / clone repository:
-```bash
-git clone https://github.com/ekaretno1505-netizen/sekolah.git
+## 📌 Catatan
+Project ini dibuat sebagai latihan/pembelajaran dalam pengembangan aplikasi web sederhana.
