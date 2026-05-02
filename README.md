@@ -5,7 +5,7 @@ Aplikasi web sederhana untuk mengelola data sekolah seperti siswa, guru, absensi
 ---
 
 ## 👩‍💻 Developer
-Eka Retno
+Eka Retno Rudiati Putri
 
 ---
 
